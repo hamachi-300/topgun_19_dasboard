@@ -1,0 +1,5 @@
+.map-container { width: 100%; height: 100%; }
+.marker { width: 10px; height: 10px; border-radius: 50%; background: white; }
+.marker.enemy { background: red; }
+.marker.our { background: lime; }
+.marker.unknown { background: yellow; }
