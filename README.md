@@ -48,6 +48,10 @@ python3 offence_client.py
 
 # PREVIEW
 
-login
+#### LOGIN
 
-![login img](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![login img](https://github.com/hamachi-300/topgun_19_dasboard/blob/main/preview_images/login.png?raw=true)
+
+#### DASHBOARD
+
+![login img](https://github.com/hamachi-300/topgun_19_dasboard/blob/main/preview_images/dashboard.png?raw=true)
